@@ -25,7 +25,7 @@ const SomeText = () => {
         borderRadius={4}
       >
         <Box fontSize={textSize}>
-          This is a Next.js app with Chakra-UI and TypeScript setup.
+          This is a Next.js app with Chakra-UI and TypeScript setup...
         </Box>
       </Box>
     </Grid>
